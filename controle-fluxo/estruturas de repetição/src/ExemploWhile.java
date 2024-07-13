@@ -20,7 +20,7 @@ public class ExemploWhile {
         * Iremos explorar os recursos de formatação em breve !!
         */
     }
-        private static double valorAleatorio(){
+        private static double valorAleatorio() {
             return ThreadLocalRandom.current().nextDouble(2,13);
         }
 }
